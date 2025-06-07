@@ -1,2 +1,5 @@
-package Enums;public enum EspecieEnum {
+package Enums;
+
+public enum EspecieEnum {
+    GATO, CACHORRO, COELHO, PASSARO, PEIXE
 }
